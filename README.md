@@ -22,7 +22,7 @@ z = x + a_r * sin(b_r * x)
 
 Where: a_r = 0.05 * (r mod 7) b_r = 0.3 * (r mod 5 + 1) r = 102303463
 
-For roll number 102303463: r mod 7 = 3 r mod 5 = 3
+For roll number 102303323: r mod 7 = 3 r mod 5 = 3
 
 Therefore: a_r = 0.15 b_r = 1.2
 
